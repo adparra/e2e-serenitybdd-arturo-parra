@@ -1,0 +1,14 @@
+{
+  "credentials": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "checkoutInfo": {
+    "firstName": "Juan",
+    "lastName": "Pérez",
+    "postalCode": "12345"
+  },
+  "expectedMessages": {
+    "confirmationHeader": "Thank you for your order!"
+  }
+}
