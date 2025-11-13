@@ -20,6 +20,7 @@
 La aplicación, al estar diseñada para realizar pruebas de automatización, proporciona
 un ambiente consistente y predecible. Los IDs de los elementos son consistentes, no hay elementos dinámicos
 y no se maneja autenticación compleja.
+
 ---
 
 ## 2. VENTAJAS DEL ENFOQUE UTILIZADO
